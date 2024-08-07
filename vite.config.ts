@@ -16,6 +16,7 @@ const config: UserConfig = {
 		rollupOptions: {
 		  input: 'src/app.html',
 		},
+		outDir: 'dist',
 	  },
 };
 
