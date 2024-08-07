@@ -58,7 +58,8 @@ const configuration = {
         linkedin: "https://www.linkedin.com/in/parhammrd/",
         github: "https://github.com/parhammrd",
         orcid: "https://scholar.google.com/citations?user=CqaZoNMAAAAJ",
-        instagram: "https://www.instagram.com/parhammrd/",
+        resume: "/MoradiP_Resume.pdf"
+        // instagram: "https://www.instagram.com/parhammrd/",
         // medium: "https://medium.com/@parhammrd",
         // scroll: "#projects",
     },
