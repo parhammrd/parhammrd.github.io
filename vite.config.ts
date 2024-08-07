@@ -13,9 +13,6 @@ const config: UserConfig = {
 	build: {
 		target: "es2021",
 		cssTarget: "chrome80",
-		rollupOptions: {
-		  input: 'src/app.html',
-		},
 		outDir: 'dist',
 	  },
 };

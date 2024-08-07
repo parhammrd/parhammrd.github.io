@@ -19,7 +19,7 @@
   "dependencies": {
     "@fontsource/fira-mono": "5.0.13",
     "@lukeed/uuid": "^2.0.1",
-    "@sveltejs/adapter-netlify": "4.3.1",
+    "@sveltejs/adapter-static": "3.0.2",
     "cookie": "0.6.0"
   }
 }
