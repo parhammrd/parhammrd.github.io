@@ -6,8 +6,9 @@ const configuration = {
         InterestedArea: [
             "Data Science",
             "Complex Systems",
-            "Network Science",
-            "Computational Social Science"
+            "Network Science", "Data Visualization",
+            "Computational Social Science",
+            "Full Stack Development"
         ],
         skills: {
             Backend: [
@@ -37,9 +38,10 @@ const configuration = {
             Tools: [
                 "Git",
                 "GitHub",
+                "VS Code",
                 "Jira",
                 "Agile",
-                "Scrum",
+                "Postman",
                 "Kanban",
                 "Trello",
                 "Slack",
@@ -73,7 +75,7 @@ const configuration = {
     more: {
         instagram: "https://www.instagram.com/parhammrd/",
         AcademicResume: "/PMoradi_CV.pdf",
-        Portfolio: "",
+        // Portfolio: "",
     },
     colors: {
         primary: "#0E1116",

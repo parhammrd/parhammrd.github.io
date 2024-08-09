@@ -58,7 +58,7 @@
 
 <style>
   section {
-    margin-top: 10%;
+    margin-top: 0px;
   }
 
   h5 {
@@ -116,7 +116,7 @@
   /** Mobile */
   @media (max-width: 768px) {
     section {
-      margin-top: 10%;
+      margin-top: 0px;
     }
     h5 {
       font-size: 20px;

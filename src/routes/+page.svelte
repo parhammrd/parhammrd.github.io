@@ -7,6 +7,8 @@
   import Skills from "$lib/components/Skills.svelte";
   import Socials from "$lib/components/Socials.svelte";
   import Posts from "$lib/components/Posts.svelte";
+  import More from "$lib/components/More.svelte";
+  import Interest from "$lib/components/Interest.svelte";
 
   let { personal, socials } = configuration;
 </script>
@@ -25,10 +27,12 @@
   <Avatar />
   <Titles />
   <Socials />
+  <Interest />
   <Skills />
   {#if socials.medium}
   <Posts />
   {/if}
+  <More />
   <Contact />
 </Background>
 
