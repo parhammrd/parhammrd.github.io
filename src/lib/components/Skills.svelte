@@ -30,7 +30,7 @@
 
   h1 {
     font-family: "Poppins", sans-serif;
-    font-size: 15vw;
+    font-size: 9vw;
     color: currentColor;
   }
 
