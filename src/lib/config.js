@@ -75,9 +75,9 @@ const configuration = {
         // scroll: "#projects",
     },
     more: {
-        instagram: "https://www.instagram.com/parhammrd/",
-        AcademicResume: "/PMoradi_CV.pdf",
         // Portfolio: "",
+        AcademicResume: "/PMoradi_CV.pdf",
+        instagram: "https://www.instagram.com/parhammrd/",
     },
     colors: {
         primary: "#0E1116",
