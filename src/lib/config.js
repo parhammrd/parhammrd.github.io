@@ -67,9 +67,13 @@ const configuration = {
         github: "https://github.com/parhammrd",
         GoogleScholar: "https://scholar.google.com/citations?user=CqaZoNMAAAAJ",
         resume: "/MoradiP_Resume.pdf",
-        // instagram: "https://www.instagram.com/parhammrd/",
         // medium: "https://medium.com/@parhammrd",
         // scroll: "#projects",
+    },
+    more: {
+        instagram: "https://www.instagram.com/parhammrd/",
+        AcademicResume: "/PMoradi_CV.pdf",
+        Portfolio: "",
     },
     colors: {
         primary: "#0E1116",
