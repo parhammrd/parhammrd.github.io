@@ -80,7 +80,7 @@
       color: currentColor;
       display: flex;
       flex-flow: row wrap;
-      column-gap: 3%;
+      column-gap: 1.5%;
       max-width: 50%;
       list-style: none;
     }

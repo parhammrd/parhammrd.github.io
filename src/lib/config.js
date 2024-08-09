@@ -6,9 +6,9 @@ const configuration = {
         InterestedArea: [
             "Data Science",
             "Complex Systems",
-            "Network Science", "Data Visualization",
+            "Network Science", "Data Engineering",
             "Computational Social Science",
-            "Full Stack Development"
+            "Full Stack Development",
         ],
         skills: {
             Backend: [
