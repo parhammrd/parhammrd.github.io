@@ -39,7 +39,7 @@
 
   .socials a:hover {
     padding-bottom: 0;
-    border-bottom: 6px solid violet;
+    border-bottom: 6px solid #0190cd;
   }
 
   /** Mobile */

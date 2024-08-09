@@ -27,15 +27,15 @@
     height: 100%;
     border-style: solid;
     border-width: 2px;
-    border-color: violet;
-    box-shadow: 3px 3px 0 0 violet;
+    border-color: #0190cd;
+    box-shadow: 3px 3px 0 0 #0190cd;
     transition: all 200ms ease;
     background-color: white;
     -webkit-transition: all 200ms ease;
   }
 
   div:hover {
-    box-shadow: 6px 6px 0 0 violet;
+    box-shadow: 6px 6px 0 0 #0190cd;
   }
 
   h1 {
