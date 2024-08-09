@@ -36,7 +36,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     width: 95%;
-    margin: 5% 0% 0% 5%;
+    margin: 8% 0% 0% 5%;
     column-gap: 100%;
     min-height: 70px;
   }
@@ -62,7 +62,7 @@
     }
     
     .more {
-      margin: 5% 0% 0% 5%;
+      margin: 10% 0% 0% 5%;
     }
 
     .more a {
