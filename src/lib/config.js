@@ -71,8 +71,7 @@ const configuration = {
         github: "https://github.com/parhammrd",
         GoogleScholar: "https://scholar.google.com/citations?user=CqaZoNMAAAAJ",
         resume: "/MoradiP_Resume.pdf",
-        // medium: "https://medium.com/@parhammrd",
-        // scroll: "#projects",
+        scroll: "#projects",
     },
     more: {
         // Portfolio: "",

@@ -6,7 +6,7 @@
   import Titles from "$lib/components/Titles.svelte";
   import Skills from "$lib/components/Skills.svelte";
   import Socials from "$lib/components/Socials.svelte";
-  import Posts from "$lib/components/Posts.svelte";
+  import Projects from "$lib/components/Projects.svelte";
   import More from "$lib/components/More.svelte";
   import Interest from "$lib/components/Interest.svelte";
 
@@ -29,8 +29,8 @@
   <Socials />
   <Interest />
   <Skills />
-  {#if socials.medium}
-  <Posts />
+  {#if socials.scroll}
+  <Projects />
   {/if}
   <More />
   <Contact />

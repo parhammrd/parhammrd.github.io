@@ -1,13 +1,14 @@
 <script>
   import configuration from "$lib/config";
 
-  export let post;
+  export let project;
 </script>
 
-<a href={post.link} target="__blank">
+<a href={project.html_url} target="__blank">
   <div>
-    <h1>{@html post.title}</h1>
-    <p>{post.pubDate.split(" ")[0]}</p>
+    <h1>{@html project.name}</h1>
+    <p class='desc'>{project.description}</p>
+    <p class='date'>{project.created_at.split("T")[0]}</p>
   </div>
 </a>
 
@@ -45,7 +46,14 @@
     margin: 10px 15px;
   }
 
-  p {
+  .desc {
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    margin: 5px 15px;
+    color: currentColor;
+    bottom: 5px;
+  }
+  .date {
     font-size: 15px;
     font-family: "Poppins", sans-serif;
     margin: 0 15px;
@@ -70,7 +78,10 @@
       font-size: 30px;
     }
 
-    p {
+    .desc {
+      font-size: 15px;
+    }
+    .date {
       font-size: 15px;
     }
   }
