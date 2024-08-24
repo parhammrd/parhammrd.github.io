@@ -20,6 +20,7 @@ const configuration = {
                 "MongoDB",
                 "ETL",
                 "Docker",
+                "CI/CD",
                 "Microservices",
                 "Linux",
                 "/(Reg)Ex/",
@@ -69,13 +70,13 @@ const configuration = {
     socials: {
         linkedin: "https://www.linkedin.com/in/parhammrd/",
         github: "https://github.com/parhammrd",
-        GoogleScholar: "https://scholar.google.com/citations?user=CqaZoNMAAAAJ",
         resume: "/MoradiP_Resume.pdf",
         scroll: "#projects",
     },
     more: {
         // Portfolio: "",
         AcademicResume: "/PMoradi_CV.pdf",
+        GoogleScholar: "https://scholar.google.com/citations?user=CqaZoNMAAAAJ",
         instagram: "https://www.instagram.com/parhammrd/",
     },
     colors: {
