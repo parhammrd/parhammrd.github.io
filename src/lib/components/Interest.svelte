@@ -18,7 +18,7 @@
 
 <style lang="scss">
   .interests {
-    margin-top: 50px;
+    margin-top: 80px;
     margin-left: 5%;
     min-height: 50px;
   }
@@ -38,7 +38,7 @@
 
   ul {
     font-family: "Poppins", sans-serif;
-    font-size: 2vw;
+    font-size: 3vw;
     color: currentColor;
     display: flex;
     flex-flow: row wrap;
@@ -59,7 +59,7 @@
   /** Mobile */
   @media (max-width: 768px) {
     .interests {
-      margin-top: 50px;
+      margin-top: 70px;
     }
 
     h1 {
@@ -76,7 +76,7 @@
 
     ul {
       font-family: "Poppins", sans-serif;
-      font-size: 14px;
+      font-size: 18px;
       color: currentColor;
       display: flex;
       flex-flow: row wrap;

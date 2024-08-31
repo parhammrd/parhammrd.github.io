@@ -50,7 +50,7 @@
 
   ul {
     font-family: "Poppins", sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     color: currentColor;
     display: flex;
     flex-flow: row wrap;

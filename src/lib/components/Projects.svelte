@@ -74,7 +74,7 @@
   /** Mobile */
   @media (max-width: 768px) {
     .projects {
-      margin-top: 50%;
+      margin-top: 10%;
     }
 
     h1 {
