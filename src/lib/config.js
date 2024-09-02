@@ -70,12 +70,10 @@ const configuration = {
     socials: {
         linkedin: "https://www.linkedin.com/in/parhammrd/",
         github: "https://github.com/parhammrd",
-        resume: "/MoradiP_Resume.pdf",
         scroll: "#projects",
     },
     more: {
         // Portfolio: "",
-        AcademicResume: "/PMoradi_CV.pdf",
         GoogleScholar: "https://scholar.google.com/citations?user=CqaZoNMAAAAJ",
         instagram: "https://www.instagram.com/parhammrd/",
     },
