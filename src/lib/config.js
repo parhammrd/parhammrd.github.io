@@ -83,7 +83,7 @@ const configuration = {
         secondary: "#EFF6EE",
     },
     contact: {
-        email: "parhammrd@gmail.com"
+        email: "me@pmoradi.dev"
     },
 };
 
