@@ -28,6 +28,9 @@
   "@sveltejs/adapter-cloudflare": "5.0.1",
   
     
+  "@sveltejs/adapter-static": "^3.0.8",
+  
+    
   "@sveltejs/kit": "2.16.1",
   
     
@@ -50,9 +53,6 @@
   
     
   "@lukeed/uuid": "^2.0.1",
-  
-    
-  "@sveltejs/adapter-static": "3.0.8",
   
     
   "cookie": "^1.0.2"
