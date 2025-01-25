@@ -1,25 +1,61 @@
 {
   
   "private": true,
+  
   "name": "parhammrd.github.io",
+  
   "version": "0.0.1",
+  
   "scripts": {
-    "dev": "vite dev",
-    "build": "vite build",
-    "package": "vite package",
-    "preview": "vite preview"
+  
+    
+  "dev": "vite dev",
+  
+    
+  "build": "vite build",
+  
+    
+  "package": "vite package",
+  
+    
+  "preview": "vite preview"
+  
   },
+  
   "devDependencies": {
-    "@sveltejs/kit": "2.5.20",
-    "svelte": "4.2.18",
-    "vite": "5.4.0",
-    "vite-plugin-compression": "^0.5.1"
+  
+    
+  "@sveltejs/adapter-cloudflare": "5.0.1",
+  
+    
+  "@sveltejs/kit": "2.16.1",
+  
+    
+  "svelte": "5.19.3",
+  
+    
+  "vite": "6.0.11",
+  
+    
+  "vite-plugin-compression": "^0.5.1"
+  
   },
+  
   "type": "module",
+  
   "dependencies": {
-    "@fontsource/fira-mono": "5.0.13",
-    "@lukeed/uuid": "^2.0.1",
-    "@sveltejs/adapter-static": "3.0.2",
-    "cookie": "0.6.0"
+  
+    
+  "@fontsource/fira-mono": "5.1.1",
+  
+    
+  "@lukeed/uuid": "^2.0.1",
+  
+    
+  "@sveltejs/adapter-static": "3.0.8",
+  
+    
+  "cookie": "^1.0.2"
+  
   }
 }
