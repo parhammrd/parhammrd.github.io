@@ -32,7 +32,7 @@
   {#if socials.scroll}
   <Projects />
   {/if}
-  <More />
+  <!-- <More /> -->
   <Contact />
 </Background>
 

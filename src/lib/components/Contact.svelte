@@ -98,7 +98,7 @@
 
   #toast-success {
     position: fixed;
-    bottom: 5%;
+    bottom: 3%;
     right: 30px;
     width: 300px;
     height: 40px;

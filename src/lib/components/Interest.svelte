@@ -10,7 +10,7 @@
     <div>
       <ul>
         {#each InterestedArea as interestTitle}
-          <li>{interestTitle}</li>
+          <li>{interestTitle}</li><br>
           {/each}
       </ul>
     </div>

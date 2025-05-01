@@ -70,6 +70,7 @@ const configuration = {
     socials: {
         linkedin: "https://www.linkedin.com/in/parhammrd/",
         github: "https://github.com/parhammrd",
+        GoogleScholar: "https://scholar.google.com/citations?user=CqaZoNMAAAAJ",
         CV: "/Parham_Moradi_CV.pdf",
         scroll: "#projects",
     },
