@@ -7,7 +7,7 @@
   import Skills from "$lib/components/Skills.svelte";
   import Socials from "$lib/components/Socials.svelte";
   import Projects from "$lib/components/Projects.svelte";
-  import More from "$lib/components/More.svelte";
+  // import More from "$lib/components/More.svelte";
   import Interest from "$lib/components/Interest.svelte";
 
   let { personal, socials } = configuration;

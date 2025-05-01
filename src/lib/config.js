@@ -74,11 +74,11 @@ const configuration = {
         CV: "/Parham_Moradi_CV.pdf",
         scroll: "#projects",
     },
-    more: {
-        // Portfolio: "",
-        GoogleScholar: "https://scholar.google.com/citations?user=CqaZoNMAAAAJ",
-        instagram: "https://www.instagram.com/parhammrd/",
-    },
+    // more: {
+    //     // Portfolio: "",
+    //     GoogleScholar: "https://scholar.google.com/citations?user=CqaZoNMAAAAJ",
+    //     instagram: "https://www.instagram.com/parhammrd/",
+    // },
     colors: {
         primary: "#0E1116",
         secondary: "#EFF6EE",
